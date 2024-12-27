@@ -49,6 +49,14 @@ export const sidebarData = [
             text: '<i class="psn">1-2-1</i> CSS 基本格式',
             link: '/htmlcss/cssBasic.md',
           },
+          {
+            text: '<i class="psn">1-2-2</i> CSS 排版-Flex',
+            link: '/htmlcss/cssFlex.md',
+          },
+          {
+            text: '<i class="psn">1-2-3</i> CSS 排版-Grid',
+            link: '/htmlcss/cssGrid.md',
+          },
         ]
       },
     ],
