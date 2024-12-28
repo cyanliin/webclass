@@ -22,7 +22,11 @@ ex:
 ```
 
 ## 最基本的 HTML 結構
-以下是最基本的網頁 HTML。
+以下是最基本的網頁 HTML，存擋為 index.html。
+
+:::tip 首頁檔名
+index.html 是網頁的首頁固定檔名。
+:::
 
 ```html
 <html>
@@ -77,3 +81,4 @@ ex:
     </body>
 </html>
 ```
+

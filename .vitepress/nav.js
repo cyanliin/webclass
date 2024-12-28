@@ -1,9 +1,5 @@
 export const sidebarData = [
   {
-    text: '開發環境',
-    link: '/devEnv.md',
-  },
-  {
     text: '<i class="psn">1</i> HTML & CSS',
     collapsed: false,
     items: [
